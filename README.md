@@ -13,8 +13,8 @@ npm install express multer cloudinary
 # Step 3:
 Create 2 files in the current project directory named index.js and client/index.html as shown in the below project directory.
 
-# index.html: I
-t basically contains 2 forms i.e single and multiple file upload.
+# index.html: 
+It basically contains 2 forms i.e single and multiple file upload.
 
 index.js: Replace cloud_name, api_key, api_secret with your cloudinary credentials which you can find on cloudinary dashboard.
 
